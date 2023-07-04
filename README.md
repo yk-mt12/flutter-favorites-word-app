@@ -5,7 +5,7 @@
 - ナビゲーションの実装
 - レスポンシブデザイン
 # documentation
-![初めてのflutterアプリケーション](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#8)
+[初めてのflutterアプリケーション](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#8)
 
 ## Getting Started
 
