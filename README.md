@@ -1,6 +1,11 @@
-# alcoho_app
-
-A new Flutter project.
+# flutter tutorial application
+- ランダムな英単語を出力
+- お気に入り機能の実装
+- お気に入りページの実装
+- ナビゲーションの実装
+- レスポンシブデザイン
+# documentation
+![初めてのflutterアプリケーション](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#8)
 
 ## Getting Started
 
